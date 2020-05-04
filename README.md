@@ -1,2 +1,6 @@
 # GetGodel
-A remixed puzzle for PHI 369
+A remixed puzzle for PHI 369 written for Python 3
+
+```shell
+pip install PyQt5==5.9.2
+```
