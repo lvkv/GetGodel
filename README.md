@@ -2,5 +2,5 @@
 A remixed puzzle for PHI 369 written for Python 3
 
 ```shell
-pip install PyQt5==5.9.2
+pip install -r requirements.txt
 ```
